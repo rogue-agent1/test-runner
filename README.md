@@ -1,11 +1,11 @@
 # test_runner
 
-test_runner - Minimal test framework with assertions, fixtures, and reporting.
+test_runner: Minimal test framework with assertions and reporting.
+
+Single-file, zero-dependency Python CLI.
 
 ## Usage
 
 ```bash
-python3 test_runner.py --test
+python3 test_runner.py test
 ```
-
-Zero dependencies. Python 3.8+.
